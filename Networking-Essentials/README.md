@@ -6,10 +6,10 @@ Notes from Cisco Networking Academy's **Networking Essentials** course (94), tak
 
 | # | Module | Status |
 |---|---|---|
-| 01 | Communication in a Connected World | ⬜ |
-| 02 | Network Components, Types, and Connections | ⬜ |
-| 03 | Wireless and Mobile Networks | ⬜ |
-| 04 | Build a Home Network | ⬜ |
+| 01 | Communication in a Connected World | ✅ |
+| 02 | Network Components, Types, and Connections | ✅ |
+| 03 | Wireless and Mobile Networks | ✅ |
+| 04 | Build a Home Network | ✅ |
 | 05 | Communication Principles | ⬜ |
 | 06 | Network Media | ⬜ |
 | 07 | The Access Layer | ⬜ |
@@ -45,6 +45,30 @@ Notes from Cisco Networking Academy's **Networking Essentials** course (94), tak
 | 37 | Network Support | ⬜ |
 | 38 | Cybersecurity Threats, Vulnerabilities, and Attacks | ⬜ |
 | 39 | Network Security | ⬜ |
+
+## Schedule
+
+Modules unlock in batches (NKUA timetable). Live sessions are Wednesdays, 19:00-21:30.
+
+| Unlock date | Modules | Live session |
+|---|---|---|
+| 2026-10-16 | 1-4 | |
+| 2026-10-30 | 5-7 | |
+| 2026-11-04 | | 1st live |
+| 2026-11-13 | 8-10 | |
+| 2026-11-20 | 11-14 | |
+| 2026-11-25 | | 2nd live |
+| 2026-11-27 | 15-17 | |
+| 2026-12-04 | 18-20 | |
+| 2026-12-11 | 21-23 | |
+| 2027-01-08 | 24-27 | |
+| 2027-01-13 | | 3rd live |
+| 2027-01-15 | 28-30 | |
+| 2027-01-22 | 31-35 | |
+| 2027-01-27 | | 4th live |
+| 2027-01-29 | 36-39 | |
+| 2027-01-30 | Final exam opens | |
+| 2027-02-08 | Final exam submission deadline | |
 
 ## Skills Practiced
 
