@@ -17,8 +17,6 @@ The module introduces the various ways mobile devices communicate. The motivatin
 
 ## Key Takeaways
 
-*(updated as sections are completed)*
-
 - A smartphone uses several wireless technologies besides its cellular radio: GPS (location, within ~10 m), Wi-Fi (local networks and the internet), Bluetooth (short-range accessories), and NFC (a few centimeters).
 - Prefer Wi-Fi when available: it saves cellular data and battery, but needs security (WPA2 or higher, VPN for sensitive data).
 - Devices switch between Wi-Fi, cellular, and 4G/3G seamlessly; Wi-Fi, cellular, and Bluetooth can all be in use at once.

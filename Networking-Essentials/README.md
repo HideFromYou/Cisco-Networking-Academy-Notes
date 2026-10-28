@@ -46,6 +46,26 @@ Notes from Cisco Networking Academy's **Networking Essentials** course (94), tak
 | 38 | Cybersecurity Threats, Vulnerabilities, and Attacks | ⬜ |
 | 39 | Network Security | ⬜ |
 
+## Checkpoint Exams
+
+Each block of modules ends with a checkpoint exam, and the course ends with the final exam.
+
+| After module | Checkpoint Exam | Status |
+|---|---|---|
+| 04 | Build a Small Network | ✅ |
+| 07 | Network Access | ⬜ |
+| 11 | The Internet Protocol | ⬜ |
+| 14 | Communication Between Networks | ⬜ |
+| 17 | Protocols for Specific Tasks | ⬜ |
+| 20 | Characteristics of Network Design | ⬜ |
+| 23 | Network Addressing | ⬜ |
+| 26 | ARP, DNS, DHCP and the Transport Layer | ⬜ |
+| 29 | Configure Cisco Devices | ⬜ |
+| 32 | Physical, Data Link, and Network Layers | ⬜ |
+| 34 | IP Addressing | ⬜ |
+| 36 | Cisco Devices and Troubleshooting Network Issues | ⬜ |
+| 39 | Course Final Exam | ⬜ |
+
 ## Schedule
 
 Modules unlock in batches (NKUA timetable). Live sessions are Wednesdays, 19:00-21:30.
@@ -76,4 +96,7 @@ Modules unlock in batches (NKUA timetable). Live sessions are Wednesdays, 19:00-
 
 ## Key Takeaways
 
-*(updated as modules are completed)*
+- The internet is a cooperative interconnection of independently owned networks; bandwidth is a medium's theoretical capacity, throughput the rate actually achieved, bounded by the slowest link.
+- Client and server are software roles on a host; peer-to-peer is simple but lacks central administration, security, and scalability.
+- A smartphone uses several wireless technologies (cellular, GPS, Wi-Fi, Bluetooth, NFC); Wi-Fi needs WPA2 or higher.
+- A home network is a small LAN behind an integrated router; Wi-Fi uses the unlicensed 2.4 GHz and 5 GHz bands under IEEE 802.11, and the router's default password should be changed.

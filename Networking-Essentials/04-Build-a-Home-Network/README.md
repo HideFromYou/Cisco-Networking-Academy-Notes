@@ -19,8 +19,6 @@ The module covers how a home network is built: its basic structure, the wired an
 
 ## Key Takeaways
 
-*(updated as sections are completed)*
-
 - A home network is a small LAN behind an integrated router (wired ports + wireless access point), separate from the public network coming from the service provider.
 - Home Wi-Fi uses the unlicensed 2.4 GHz and 5 GHz bands under the IEEE 802.11 standards (Wi-Fi); wired devices use Ethernet over Cat 5e UTP, or powerline where there is no cabling.
 - Key router settings: network mode, SSID, channel (Auto by default), SSID broadcast. Don't put the device model or brand in the SSID, and change the router's default password.

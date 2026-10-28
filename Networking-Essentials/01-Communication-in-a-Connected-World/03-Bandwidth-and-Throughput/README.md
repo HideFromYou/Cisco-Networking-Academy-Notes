@@ -44,10 +44,6 @@ In a network with multiple segments, throughput can never be faster than the **s
 
 Online speed tests can be used to measure the throughput of an internet connection.
 
-## Check Your Understanding
-
-1. *The capacity of the medium to carry data is known as:* → **bandwidth**
-
 ## Key Takeaways
 
 - **Bandwidth = capacity (theoretical maximum); throughput = what you actually get.** Throughput is almost always lower.

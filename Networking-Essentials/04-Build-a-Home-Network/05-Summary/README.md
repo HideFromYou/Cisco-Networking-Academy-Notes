@@ -2,7 +2,7 @@
 
 ## Overview
 
-End-of-module recap (4.5.1 "What Did I Learn in this Module?"). It restates the four topics of the module; the detail pages (4.1–4.4) are not written up yet.
+End-of-module recap (4.5.1 "What Did I Learn in this Module?"). It restates the four topics of the module; the details live in their own sections.
 
 ## Recap
 

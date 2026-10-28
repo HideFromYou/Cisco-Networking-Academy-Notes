@@ -46,11 +46,6 @@ Security systems, appliances, smart TVs, gaming consoles — monitorable/configu
 - **Sensors and actuators**
 - **Medical devices**
 
-## Check Your Understanding
-
-1. *What type of network allows computers in a home office or a remote office to connect to a corporate network?* → **Small office/home office (SOHO) network**
-2. *What can be placed in or on a package so that it can be tracked?* → **RFID tag**
-
 ## Key Takeaways
 
 - The internet has no single owner — it's a cooperative, standards-based interconnection of independently-owned networks.

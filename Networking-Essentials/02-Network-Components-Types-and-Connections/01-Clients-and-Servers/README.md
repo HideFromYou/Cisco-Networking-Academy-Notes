@@ -49,12 +49,6 @@ Some P2P applications use a **hybrid** system: resource sharing is decentralized
 - One computer can run **multiple types of server software** (a home/small-business machine can be file server, web server, and email server at once).
 - One computer can run **multiple types of client software** — one client per required service — so a host can connect to several servers at the same time (checking email, browsing, instant messaging, and listening to internet radio together).
 
-## Check Your Understanding
-
-1. *Computer with software to provide information such as email or web pages to other devices is a:* → **server**
-2. *A smartphone uses a web browser to request and display a web page — it is a:* → **client**
-3. *Two computers communicating as both client and server form a:* → **peer-to-peer network**
-
 ## Key Takeaways
 
 - Client/server is about **software roles**, not hardware: the installed software decides whether a host acts as client, server, or both.

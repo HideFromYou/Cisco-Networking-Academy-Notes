@@ -18,7 +18,5 @@ The module introduces the roles of the things that make up a network: end device
 
 ## Key Takeaways
 
-*(updated as sections are completed)*
-
 - Client and server are software roles on a host, and one host can hold several of each at the same time.
 - Peer-to-peer networks are simple and cheap but lack central administration, security, and scalability, so larger networks use dedicated servers.

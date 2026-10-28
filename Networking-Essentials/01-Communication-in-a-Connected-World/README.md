@@ -16,8 +16,6 @@ Opening module of Networking Essentials — establishes what "being online" mean
 
 ## Key Takeaways
 
-*(updated as remaining sections are completed)*
-
 - The internet has no single owner — it's a cooperative, standards-based interconnection of independently-owned networks.
 - Network "type" is a question of scale (small home → SOHO → medium/large business → worldwide), not a difference in underlying technology.
 - The device landscape connecting to networks now spans far past PCs — mobile, home, and embedded/IoT devices are routine network endpoints.
