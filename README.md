@@ -6,6 +6,7 @@ Personal notes from my journey through the **Cisco Networking Academy** e-learni
 
 This repository contains my notes, key concepts, and practical takeaways while progressing through the **Networking Essentials** certification-prep program, which prepares for the **Cisco Certified Support Technician (CCST) Networking** certification.
 
+
 ## Contents
 
 | Program | Description | Status |
