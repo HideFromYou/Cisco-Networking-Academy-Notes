@@ -10,9 +10,9 @@ Notes from Cisco Networking Academy's **Networking Essentials** course (94), tak
 | 02 | Network Components, Types, and Connections | ✅ |
 | 03 | Wireless and Mobile Networks | ✅ |
 | 04 | Build a Home Network | ✅ |
-| 05 | Communication Principles | ⬜ |
-| 06 | Network Media | ⬜ |
-| 07 | The Access Layer | ⬜ |
+| 05 | Communication Principles | ✅ |
+| 06 | Network Media | ✅ |
+| 07 | The Access Layer | ✅ |
 | 08 | The Internet Protocol | ⬜ |
 | 09 | IPv4 and Network Segmentation | ⬜ |
 | 10 | IPv6 Addressing Formats and Rules | ⬜ |
@@ -100,3 +100,7 @@ Modules unlock in batches (NKUA timetable). Live sessions are Wednesdays, 19:00-
 - Client and server are software roles on a host; peer-to-peer is simple but lacks central administration, security, and scalability.
 - A smartphone uses several wireless technologies (cellular, GPS, Wi-Fi, Bluetooth, NFC); Wi-Fi needs WPA2 or higher.
 - A home network is a small LAN behind an integrated router; Wi-Fi uses the unlicensed 2.4 GHz and 5 GHz bands under IEEE 802.11, and the router's default password should be changed.
+- Network protocols define how devices format, transmit, and interpret messages; common standards enable interoperability between devices from different manufacturers.
+- The TCP/IP model has four layers and the OSI reference model has seven; the models provide complementary ways to describe network communication.
+- Network media include copper, fiber-optic cable, and wireless. The appropriate medium depends on distance, environment, required data rate, and cost.
+- Ethernet frames carry data across a local link using source and destination MAC addresses. Switches learn source MAC addresses and use their MAC address tables to forward frames.
