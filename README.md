@@ -11,8 +11,6 @@ This repository contains my notes, key concepts, and practical takeaways while p
 | Program | Description | Status |
 |---|---|---|
 | [Networking Essentials](Networking-Essentials) | 39 modules, 48 labs (Cisco Packet Tracer), CCST Networking prep | 🟡 In progress |
-| Cybersecurity Essentials | 27 modules, CCST Cybersecurity prep | ⬜ Not started yet |
-
 ## Approach
 
 For each module, I document:
