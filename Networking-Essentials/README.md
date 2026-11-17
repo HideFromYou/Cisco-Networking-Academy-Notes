@@ -13,8 +13,8 @@ Notes from Cisco Networking Academy's **Networking Essentials** course (94), tak
 | 05 | Communication Principles | ✅ |
 | 06 | Network Media | ✅ |
 | 07 | The Access Layer | ✅ |
-| 08 | The Internet Protocol | ⬜ |
-| 09 | IPv4 and Network Segmentation | ⬜ |
+| 08 | The Internet Protocol | ✅ |
+| 09 | IPv4 and Network Segmentation | ✅ |
 | 10 | IPv6 Addressing Formats and Rules | ⬜ |
 | 11 | Dynamic Addressing with DHCP | ⬜ |
 | 12 | Gateways to Other Networks | ⬜ |
@@ -104,3 +104,7 @@ Modules unlock in batches (NKUA timetable). Live sessions are Wednesdays, 19:00-
 - The TCP/IP model has four layers and the OSI reference model has seven; the models provide complementary ways to describe network communication.
 - Network media include copper, fiber-optic cable, and wireless. The appropriate medium depends on distance, environment, required data rate, and cost.
 - Ethernet frames carry data across a local link using source and destination MAC addresses. Switches learn source MAC addresses and use their MAC address tables to forward frames.
+- IPv4 addresses are 32-bit logical addresses divided into network and host portions by a subnet mask; a /24 prefix identifies 24 network bits.
+- ICMP ping tests IP reachability, while HTTP browsing tests application-layer communication over a TCP connection.
+- IPv4 supports unicast, broadcast, and multicast. RFC 1918 defines private address blocks, while NAT/PAT enable private networks to communicate through public IPv4 addressing.
+- Routers separate broadcast domains. Subnetting reduces broadcast-domain size and supports performance and security policies.
